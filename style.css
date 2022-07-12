@@ -18,10 +18,10 @@ body{
 }
 h1{
     color: white;
-    font-size: 80px;
+    font-size: 40px;
     margin: 90px;
 }
-p{
+.bnner-blog{
     font-size: 30px;
     margin-left: 90px;
     color: white;
@@ -36,4 +36,37 @@ p{
     color: aliceblue;
     border-radius: 10px;
     margin-left: 90px;
+}
+.blog-discription{
+    color: black;
+    font-size: 20px;
+}
+
+
+
+.blog1{
+    display: flex;
+    margin-bottom: 200px;
+}
+.half-width{
+    width: 50%;
+  margin-left: 100px;
+  margin-right: 100px;
+ margin-bottom: 40px;
+}
+
+.blog2{
+    display: flex;
+    margin-bottom: 200px;
+}
+.button-2{
+    background-color: orangered;
+    text-decoration: none;
+    width: 50px;
+    height: 25px;
+    padding: 15px;
+    font-size: 30px;
+    color: aliceblue;
+    border-radius: 10px;
+
 }
