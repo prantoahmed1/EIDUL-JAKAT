@@ -70,3 +70,71 @@ h1{
     border-radius: 10px;
 
 }
+.about-rewards-blog{
+    text-align: center;
+}
+
+.box-1{
+ 
+    width: 400px;
+    background-color:#C8F7F2 ;
+    border-radius: 8px;
+    margin-left: 10px;
+   
+    
+}
+.box-2{
+   
+    width: 400px;
+    background-color:#C8F7F2 ;
+    border-radius: 8px;
+    margin-left: 10px;
+    margin-top: 20px;
+   
+    
+}
+
+.box-blog-paragraph{
+    text-align: center;
+}
+h3{
+    text-align: center;
+}
+.icon{
+    padding-left: 10px;
+}
+.box-blog1{
+    padding-top: 20px;
+}
+.box-3{
+   
+    width: 400px;
+    background-color:#C8F7F2 ;
+    border-radius: 8px;
+    margin-left: 10px;
+    margin-top: 20px;
+   
+    
+}
+.box-blog2{
+    margin-left: 100px;
+}
+
+
+.box-4{
+   
+    width: 400px;
+    background-color:#C8F7F2 ;
+    border-radius: 8px;
+    margin-left: 10px;
+    margin-top: 20px;
+
+   
+    
+}
+.box-blog{
+    display: flex;
+    margin-left: 220px;
+    margin-bottom: 200px;
+    
+}
