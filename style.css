@@ -154,7 +154,7 @@ h3{
     background-color:gainsboro;
     border-radius: 8px;
     text-align: center;
-    padding-top: 20px;
+    padding-top: 25px;
 
  }
  .about-important-topic2{
@@ -165,7 +165,7 @@ h3{
     border-radius: 8px;
     margin-left: 40px;
     text-align: center;
-    padding-top: 20px;
+    padding-top: 25px;
 
  }
  .about-important-topic3{
@@ -177,13 +177,70 @@ h3{
     padding-top: 25px;
     margin-left: 40px;
     text-align: center;
-    padding-top: 20px;
+   
  }
  .about-foljilot{
     display: flex;
     margin-bottom: 200px;
-    margin-left: 33px;
+justify-content: space-around;
  }
  .prayer-text{
     padding-top: 25px;
  }
+.prayer-img{
+    display: flex;
+    justify-content: space-evenly;
+    margin-bottom: 200px;
+}
+.prayer-img1 img{
+    border-radius: 5px;
+
+}
+.significant{
+    text-align: center;
+    font-size: 30px;
+   
+}
+
+.hajj-blog-box{
+  
+    width: 364px;
+  background-color:rgba(229, 235, 236, 0.803);
+  border-radius: 10px;
+}
+.holiy-sacrifice-box{
+   
+    width: 364px;
+
+    background-color:rgba(229, 235, 236, 0.803);
+    border-radius: 10px;
+}
+.eid-paragaraph{
+    text-align: center;
+}
+.significant-umra-box{
+    
+    width: 364px;
+  background-color:rgba(229, 235, 236, 0.803);
+  border-radius: 10px;
+}
+.holiy-img img{
+ border-radius: 10px;
+}
+.hajj-img img{
+    border-radius: 10px;
+}
+.umra-img img{
+    border-radius: 10px;
+}
+.signicificant-section{
+    display: flex;
+    justify-content: space-around;
+}
+.eid-significant{
+    margin-bottom: 200px;
+}
+footer{
+    background-color: cornflowerblue;
+    text-align: center;
+}
